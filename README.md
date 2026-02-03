@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 - 🔭 Advancing my expertise in Data Analytics as an MSc candidate at National College of Ireland.Refining scalable AI/ML models using AWS S3, EC2, Lambda, and SageMaker.<br>
 - 🌱 Advanced AI-driven strategic business intelligence and cloud-native deployments.Expanding my stack in TensorFlow and Scikit-Learn for scalable production models.<br>
