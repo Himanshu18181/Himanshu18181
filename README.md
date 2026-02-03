@@ -1,23 +1,14 @@
 ## Hi there 👋
-
-<!--
-**Himanshu18181/Himanshu18181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🔭 [[I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 💫 About Me:
-Advancing my expertise in Data Analytics as an MSc candidate at National College of Ireland.Refining scalable AI/ML models using AWS S3, EC2, Lambda, and SageMaker.<br>Computer Vision projects or advancements in Al-based technology. Building robust Machine Learning pipelines using Scikit-Learn and TensorFlow.<br>Advanced Predictive Analytics and optimizing model performance using Docker containers. Integrating SAP HANA data streams into real-time Al models.<br>Deepening my expertise in Machine Learning Libraries and Google Data Analytics frameworks. Exploring GCP (Google Cloud Platform) to complement my existing AWS skillset.<br>Model Deployment: How I used Docker to streamline automation and deployment workflows.<br>Feature Engineering: My process for enhancing model accuracy through data cleaning and tuning. Research: My work as a published researcher and patent holder in AI.
-
+- 🔭 Advancing my expertise in Data Analytics as an MSc candidate at National College of Ireland.Refining scalable AI/ML models using AWS S3, EC2, Lambda, and SageMaker.<br>
+- 🌱 Advanced AI-driven strategic business intelligence and cloud-native deployments.Expanding my stack in TensorFlow and Scikit-Learn for scalable production models.<br>
+- 👯 Open-source Machine Learning projects or Data Engineering pipelines.Innovative Computer Vision or AI-based fashion technology research.<br>
+- 🤔 Deploying complex deep learning models on Google Cloud Platform (GCP).Advanced Time Series Analysis and predictive modeling optimizations.<br>
+- 💬 SQL & SAP HANA: How I automated audit workflows at Reliance Jio to reduce financial risk.Data Visualization: Building high-impact dashboards in Power BI and Tableau.AI Research: My experience as a published researcher and patent holder in AI.<br>
+- 📫 LinkedIn: linkedin.com/in/himanshurajput18 <br>
+     Email: himanraj07@gmail.com <br>
+     Location: Currently based in Dublin, Ireland <br>
+- ⚡ Fun fact: I am a published researcher and an official patent holder for an AI-based fashion technology innovation!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/himanshurajput18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanraj07@gmail.com) 
